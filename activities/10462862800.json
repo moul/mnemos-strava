@@ -1,0 +1,63 @@
+{
+  "@type": "activity",
+  "achievement_count": 0,
+  "athlete": {
+    "id": 129012597,
+    "resource_state": 1
+  },
+  "athlete_count": 1,
+  "average_speed": 5.015,
+  "comment_count": 0,
+  "commute": false,
+  "device_name": "Strava App",
+  "display_hide_heartrate_option": false,
+  "distance": 14617.3,
+  "elapsed_time": 4214,
+  "elev_high": 234.4,
+  "elev_low": 211.9,
+  "end_latlng": [
+    43.30372215248644,
+    1.220625126734376
+  ],
+  "external_id": "DC067F5D-7965-4B24-9257-913774AE465B-activity.fit",
+  "flagged": false,
+  "from_accepted_tag": false,
+  "gear_id": "g15918352",
+  "has_heartrate": false,
+  "has_kudoed": false,
+  "heartrate_opt_out": false,
+  "id": "10462862800",
+  "kudos_count": 0,
+  "location_city": null,
+  "location_country": null,
+  "location_state": null,
+  "manual": false,
+  "map": {
+    "id": "a10462862800",
+    "resource_state": 2,
+    "summary_polyline": "ij}fGyfbFGi@KWAMCACEBFF?CAAGEE?OGMC?AMCA?AEGAO@AEK@EOa@Ge@OY@IEWCA@ECCAMEEMs@IQ@CECCSGI@Qa@q@EQBGKKCSAC@?A@EYEADCCA@CIM@GCCDGCFAALNANDTADFRFHLj@LRNl@FF@JHV@DC?D?C??BFF@F@PB@?HVr@F`@@A?HJf@C??BBB@LFH?@DHDZLT?BDDPrAHR?RL\\Ff@BLDDAHJXHd@Fl@Pn@?HDD?DEA?ADLHL@LC?FN?NN^?DLv@BB?HDF?JH^DHAFJR?LTn@@PFJDXFRTlBFNBTNf@ABFJBZHN@FEHA\\HHHXX\\AND@C@DDC@@??X@FA@@HA?BPECB??JFL?BPp@FF?HFFCF@FFJ?ZCBAXDHBRHH@NFD?DFR?CBB@PJT@VHZADDHBBBLDDADDHADBH?BHTGGFCBBJNXPPTD?DEFW?KBI?MDI@ONUJUA@PQAE?BCCBBABCE@?CA?B@ACAD??BMCF@BCLRL@AIFUZ]\\WBG@OIOMIK@MJe@n@OHOVo@x@w@t@yEvFm@r@u@j@_@d@Kd@U`@gBfByAz@gE|A{D|AwEdB{OpF_DnAyDnA{R`HuC~@aHfCcInCoBv@mKnDeJjDwC~@ef@xPe@FS?a@KKMOe@IOMIQCQBa@L}@GU?u@Bq@LUFoBhAUHS@U?QEe@]a@k@aCsE_W_h@}GoNcG}LyEuK_BmDcTqc@iPw\\eOmZyN}XoZgn@_G{LyDwIYy@O_ACa@F_AP}@jA_CJ]Ly@Fq@Lg@NKxABl@Ml@YRQd@k@NYh@{AtBcIp@oC`@oBpDgVfDgTLm@Pe@DWFoB~@cN`@}HBaB?uDIkBQsB?iAPkAJ]v@qAFODg@Ik@GQq@gAISCW?q@HiGIyB{AuM}A{LCu@@m@Jk@^cA@KE[][UKkAYa@MoCg@aPqDQCk@FMCg@a@oCq@"
+  },
+  "max_speed": 29.44,
+  "moving_time": 2915,
+  "name": "Marche dans l'après-midi",
+  "photo_count": 0,
+  "pr_count": 0,
+  "private": true,
+  "resource_state": 2,
+  "sport_type": "Walk",
+  "start_date": "2023-12-30T14:37:19Z",
+  "start_date_local": "2023-12-30T15:37:19Z",
+  "start_latlng": [
+    43.24425196275115,
+    1.159918187186122
+  ],
+  "timezone": "(GMT+01:00) Europe/Paris",
+  "total_elevation_gain": 36.4,
+  "total_photo_count": 0,
+  "trainer": false,
+  "type": "Walk",
+  "upload_id": 11197024689,
+  "upload_id_str": "11197024689",
+  "utc_offset": 3600,
+  "visibility": "only_me"
+}
