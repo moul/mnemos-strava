@@ -1,0 +1,63 @@
+{
+  "@type": "activity",
+  "achievement_count": 0,
+  "athlete": {
+    "id": 129012597,
+    "resource_state": 1
+  },
+  "athlete_count": 2,
+  "average_speed": 0.953,
+  "comment_count": 0,
+  "commute": false,
+  "device_name": "Garmin fēnix 7s",
+  "display_hide_heartrate_option": false,
+  "distance": 851.3,
+  "elapsed_time": 1973,
+  "elev_high": 52.2,
+  "elev_low": -2,
+  "end_latlng": [
+    43.723049,
+    10.396381
+  ],
+  "external_id": "stripped_accepted_tag_from_17895289719.fit",
+  "flagged": false,
+  "from_accepted_tag": true,
+  "gear_id": "g17703203",
+  "has_heartrate": false,
+  "has_kudoed": false,
+  "heartrate_opt_out": false,
+  "id": "16806059983",
+  "kudos_count": 6,
+  "location_city": null,
+  "location_country": null,
+  "location_state": null,
+  "manual": false,
+  "map": {
+    "id": "a16806059983",
+    "resource_state": 2,
+    "summary_polyline": "ctziG_qm~@B?BFGf@D^ILG\\Rn@?RxCMJMOMy@oAo@L?A[A]?l@IAMa@?EIC}A?TAAP_AGLJNA^@HB@DC?MEGGACD?JJ@CGBIRGCDC?LHOJO@B?AF?CH?DI?@CKGGABI?DFDAGBJ@CB@EGD@BHDA@@DEMFFEKAB?I?BFVIY@DABCEFJAIADBF?CCEBDEK@ADLEMFLEKAF@G@DCC@F?E?DIGEADCABE@FAQKLDC@LJC@Gr@Da@@FEH"
+  },
+  "max_speed": 5.379,
+  "moving_time": 893,
+  "name": "Tour de Pise 📐",
+  "photo_count": 0,
+  "pr_count": 0,
+  "private": false,
+  "resource_state": 2,
+  "sport_type": "Walk",
+  "start_date": "2025-12-21T15:00:21Z",
+  "start_date_local": "2025-12-21T16:00:21Z",
+  "start_latlng": [
+    43.723067,
+    10.396488
+  ],
+  "timezone": "(GMT+01:00) Europe/Rome",
+  "total_elevation_gain": 46,
+  "total_photo_count": 3,
+  "trainer": false,
+  "type": "Walk",
+  "upload_id": 17897201587,
+  "upload_id_str": "17897201587",
+  "utc_offset": 3600,
+  "visibility": "followers_only"
+}
